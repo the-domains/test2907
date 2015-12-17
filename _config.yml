@@ -1,0 +1,28 @@
+name: test2907
+favicon: null
+layout_spectrum: 0.05880468827672303
+typography_spectrum: 0.5460641358513385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.006782441632822156
+  lightness: 0.9500530569348484
+  saturation: 0.1325903448741883
+  rhythmicContrast: 0.9653603797778487
+purpose: []
